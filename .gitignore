@@ -1,0 +1,11 @@
+# PyInstaller junk (The heavy stuff)
+build/
+dist/
+*.spec
+
+# Python junk
+__pycache__/
+*.pyc
+
+# VS Code settings (Optional, but good practice)
+.vscode/
